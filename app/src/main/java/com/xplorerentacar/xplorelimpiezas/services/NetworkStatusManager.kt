@@ -1,4 +1,4 @@
-package com.xplorerentacar.xplorerevisions.services
+package com.xplorerentacar.xplorelimpiezas.services
 
 import android.content.Context
 import android.net.ConnectivityManager

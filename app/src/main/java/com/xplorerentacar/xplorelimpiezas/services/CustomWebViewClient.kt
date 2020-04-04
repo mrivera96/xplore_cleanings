@@ -1,4 +1,4 @@
-package com.xplorerentacar.xplorerevisions.services
+package com.xplorerentacar.xplorelimpiezas.services
 
 import android.net.http.SslError
 import android.util.Log
