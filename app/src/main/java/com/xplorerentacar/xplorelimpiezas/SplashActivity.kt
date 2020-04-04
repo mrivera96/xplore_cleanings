@@ -9,7 +9,7 @@ import android.view.View
 import android.webkit.WebView
 import android.widget.*
 import androidx.appcompat.app.AppCompatActivity
-import com.xplorerentacar.xplorerevisions.services.NetworkStatusManager.status
+import com.xplorerentacar.xplorelimpiezas.services.NetworkStatusManager.status
 import kotlinx.android.synthetic.main.activity_splash.*
 import java.util.*
 
