@@ -1,0 +1,2 @@
+rootProject.name='Xplore Limpiezas'
+include ':app'
